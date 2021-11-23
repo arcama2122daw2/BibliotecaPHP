@@ -1,0 +1,9 @@
+Libres:
+-Titol
+-Autor
+-ISBN
+-En prestec
+-Inici prestec
+-Codi usuari
+
+Vietnam:Arnau Salinas:
